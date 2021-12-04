@@ -1,0 +1,78 @@
+{
+  "courses": {
+    "internet": [
+      {
+        "title": "How does the internet work?",
+        "videoId": "zN8YNNHcaZc",
+        "circullum": "Internet Basics"
+      },
+      {
+        "title": "TCP vs UDP Crash Course",
+        "videoId": "qqRYkcta6IE",
+        "circullum": "Internet Basics"
+      },
+      {
+        "title": "Hyper Text Transfer Protocol Crash Course",
+        "videoId": "0OrmKCB0UrQ",
+        "circullum": "Internet Basics"
+      },
+      {
+        "title": "How do web browsers work? | Web Demystified",
+        "videoId": "uE3UPEK26U0",
+        "circullum": "Internet Basics"
+      },
+      {
+        "title": "What is DNS?",
+        "videoId": "e2xLV7pCOLI",
+        "circullum": "Internet Basics"
+      },
+      {
+        "title": "What Is Web Hosting? Explained",
+        "videoId": "htbY9-yggB0",
+        "circullum": "Internet Basics"
+      }
+    ],
+    "web": [
+      {
+        "title": "HTML Full Course - Build a Website Tutorial",
+        "videoId": "pQN-pnXPaVg",
+        "circullum": "HTML"
+      },
+      {
+        "title": "Learn HTML5",
+        "videoId": "DPnqb74Smug",
+        "circullum": "HTML"
+      },
+      {
+        "title": "HTML Best Practices Tutorial",
+        "videoId": "e3jhKg1ozvw",
+        "circullum": "HTML"
+      },
+      {
+        "title": "CSS Crash Course For Absolute Beginners",
+        "videoId": "yfoY53QXEnI",
+        "circullum": "CSS"
+      },
+      {
+        "title": "CSS position property tutorial",
+        "videoId": "-vo0HzNHL3U",
+        "circullum": "CSS"
+      },
+      {
+        "title": "The CSS Box Model",
+        "videoId": "M6coJNLFBWI",
+        "circullum": "CSS"
+      },
+      {
+        "title": "CSS Flexbox Crash Course",
+        "videoId": "tXIhdp5R7sc",
+        "circullum": "CSS"
+      },
+      {
+        "title": "CSS Grid Course",
+        "videoId": "t6CBKf8K_Ac",
+        "circullum": "CSS"
+      }
+    ]
+  }
+}
